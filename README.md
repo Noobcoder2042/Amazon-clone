@@ -3,7 +3,7 @@
 
 # Amazon Clone
 
-A full-stack e-commerce application that replicates the core functionalities of Amazon.
+A e-commerce application that replicates the core functionalities of Amazon.
 
 ## Features
 
